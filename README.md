@@ -1,2 +1,3 @@
 # python-projects
-a list of projects i worked on as i learn python
+A list of projects I worked on as I learn python
+1) die roll simulator, basic dice rolling
